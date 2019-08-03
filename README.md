@@ -92,4 +92,4 @@ Reinicie o serviço do Httpd com o comando:
 
 ## Testes
 
- `Teste abra o ip do servidor /phpmyadmin no navegador
+ `Teste abra o ip do servidor /phpmyadmin no navegador`
